@@ -1,0 +1,42 @@
+Task 8 – VPN Setup and Testing Report
+
+Analyst: Arshiya Sulthana
+Date: 3/10/25
+Tool Used: ProtonVPN (Free Tier)
+Objective: Understand VPN setup, verify IP masking, and evaluate browsing security.
+
+Step 1: VPN Sign-Up and Installation
+Signed up for ProtonVPN free account.
+Downloaded and installed ProtonVPN client for Windows.
+Logged in successfully.
+
+Step 2: Connect to VPN Server
+Selected a server (closest location for speed).
+Clicked Connect.
+VPN connected successfully; IP address changed.
+
+Step 3: Verify IP Address Change
+Visited https://whatismyipaddress.com
+Confirmed new IP address and server location
+
+Step 4: Test Browsing
+Opened websites like google.com to ensure traffic routed through VPN.
+Websites loaded normally with VPN active.
+
+Step 5: Disconnect VPN
+Clicked Disconnect in ProtonVPN.
+Verified original IP address restored.
+Observed ProtonVPN message: “Your IP address is visible” (normal).
+
+Step 6: VPN Encryption and Privacy
+VPN encrypts traffic using OpenVPN/WireGuard protocols.
+Protects from eavesdropping on public Wi-Fi.
+Masks real IP to enhance privacy.
+Limitations: Free VPNs may have slower speeds and limited server locations.
+
+Step 7: Summary of Findings
+VPN successfully changed IP and encrypted traffic.
+Browsing was normal while VPN active.
+Disconnecting restored original IP.
+
+README.md for GitHub repo.
